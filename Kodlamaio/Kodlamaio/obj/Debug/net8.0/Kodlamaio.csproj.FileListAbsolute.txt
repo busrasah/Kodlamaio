@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.exe
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.deps.json
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.runtimeconfig.json
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.dll
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\bin\Debug\net8.0\Kodlamaio.pdb
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.dll
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\refint\Kodlamaio.dll
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.pdb
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\Kodlamaio.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Kamp2024\Kodlamaio\Kodlamaio\obj\Debug\net8.0\ref\Kodlamaio.dll
